@@ -1,0 +1,8 @@
+{
+  "name": "JJ Convention",
+  "description": "A luxury convention center website featuring a multi-layer parallax hero, cinematic storytelling, and a horizontal scroll GSAP events showcase for weddings, receptions, engagements, birthdays, corporate summits, and family gatherings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
